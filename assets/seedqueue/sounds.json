@@ -1,0 +1,29 @@
+{
+  "play_instance": {
+    "sounds": [
+    ]
+  },
+  "reset_all": {
+    "sounds": [
+      "seedqueue:reset_all"
+    ]
+  },
+  "reset_column": {
+    "sounds": [
+      "seedqueue:reset_column"
+    ]
+  },
+  "reset_row": {
+    "sounds": [
+      "seedqueue:reset_row"
+    ]
+  },
+  "start_benchmark": {
+    "sounds": [
+    ]
+  },
+  "finish_benchmark": {
+    "sounds": [
+    ]
+  }
+}
